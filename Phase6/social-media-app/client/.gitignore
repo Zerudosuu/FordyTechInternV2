@@ -1,0 +1,76 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+*.log.*
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Firebase
+firebase-debug.log
+firebase-debug.*.log
+firebase.json
+.firebaserc
+*.cache
+.firestore*
+
+# Build files
+build/
+dist/
+
+# TypeScript
+*.tsbuildinfo
+
+# Environment variables
+.env
+.env.*.local
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.swr
+*.bak
+
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Coverage directory
+coverage/
+
+# Temporary files
+temp/
+tmp/
+*.tmp
+*.temp
+
+# Debugging
+*.stackdump
+*.out
+
+# Byebug
+.byebug_history
+
+# IDE files
+*.iml
+*.sublime-workspace
+*.sublime-project
+
+# Firebase Hosting Cache
+.firebase/
+
+# Miscellaneous
+*.lock
+*.log
+*.orig
